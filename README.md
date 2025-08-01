@@ -21,7 +21,7 @@ This project simulates basic ransomware behavior using Python and the `cryptogra
 ### 🔐 Encrypt Files
 
 ```bash
-python vecna.py
+python3 vecna.py
 ```
 
 - Encrypts all files in the folder.
@@ -30,7 +30,7 @@ python vecna.py
 ### 🔓 Decrypt Files
 
 ```bash
-python decrypt.py
+python3 decrypt.py
 ```
 
 - Uses `thekey.key` to decrypt files.
